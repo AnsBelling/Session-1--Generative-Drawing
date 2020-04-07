@@ -1,2 +1,2 @@
-# Session 1: Generative Drawing
+# Session 1: Pseudo-Generative Drawing
  
